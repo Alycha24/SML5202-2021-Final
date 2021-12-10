@@ -38,20 +38,6 @@ footer a:hover {
 	text-decoration: underline;
 }
 
-<script src="wiki.js"></script>
-<header class="searchForm-container">
-<img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
-<form class="searchForm">
-        <input type="search" class="searchForm-input">
-        <button type="submit" class="icon searchIcon">
-          <img src="https://image.ibb.co/cpG8zk/search.png" alt="Magnifying Glass Icon">
-        </button>
-      </form>
-</header>
-<section class="searchResults"></section>
-
-Step 4
-Copy the following stylesheet code and paste it at the end of your assets/css/style.scss file:
 
 
 /** Wikipedia Search Styles **/

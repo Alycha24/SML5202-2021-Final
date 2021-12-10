@@ -15,3 +15,4 @@
       </form>
 </header>
 <section class="searchResults"></section>
+<script src="wiki.js"></script>

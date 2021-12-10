@@ -9,9 +9,11 @@ title: home
 <h2>What you will learn on this website</h2>
 
 <ul>
-  <li>Grammar</li>
-  <li>Vocabulary</li>
-  <li>Conjugation</li>
+  <li>Languages</li>
+  <li>Religions</li>
+  <li>Landmarks</li>
+  <li>Traditional Clothing</li>
+  <li>Climate</li>
 </ul>  
 
 <hr>

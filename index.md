@@ -3,10 +3,10 @@ title: home
 ---
 
 <h1>Welcome</h1>
-<p>Write your content in here as you would normally in HTML</p>
+<p>This website will teach you some important things about Latin America!</p>
 
   
-<h2>What you will learn on this website</h2>
+<h2>On this website you will learn all about:</h2>
 
 <ul>
   <li>Languages</li>

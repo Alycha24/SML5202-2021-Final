@@ -11,9 +11,16 @@ title: Page2
 <div class="row">
     <div class="col-sm-4">
       <h3>Column 1</h3>
-     
-      <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/French_flag_in_Angers.jpg" style="width:100%">
-<p> Look at the flag. </p>
+     <html>
+<body>
+
+<h1>The img element</h1>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/SouthAmericaFlags.jpg"  alt="Girl in a jacket" width="500" height="400">
+
+</body>
+</html>
+<p> The 12 flags of South America. </p>
 </p>
     </div>
     <div class="col-sm-4">

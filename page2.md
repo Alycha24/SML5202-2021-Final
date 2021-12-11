@@ -14,14 +14,14 @@ title: Page2
      <html>
 <body>
 
-<h1>The img element</h1>
+<h1>The 12 flags of south America</h1>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/SouthAmericaFlags.jpg"  alt="Girl in a jacket" width="500" height="400">
 
 </body>
 </html>
-<p> The 12 flags of South America. </p>
-</p>
+<p> Can you name the countries? </p>
+
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>

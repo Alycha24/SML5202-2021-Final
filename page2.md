@@ -10,7 +10,7 @@ title: Page2
   <h2>Indigenous Languages</h2>
   <p>Watch the first four minutes of video to learn more about the languages in South America! </p>
  <p>
-   <iframe width="280" height="158" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   <iframe width="500" height="400" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 </section>
 

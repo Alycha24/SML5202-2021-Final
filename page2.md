@@ -6,7 +6,7 @@ title: Page2
 <style>
 .center {
   margin: auto;
-  width: 95%;
+  width: 100%;
   padding: 10px;
 }
 </style>
@@ -28,6 +28,5 @@ title: Page2
 </section>
 </body>
 </html>
-
 
 

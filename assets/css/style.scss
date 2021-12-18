@@ -3,6 +3,7 @@
 
 /*** EDIT ONLY BELOW HERE ***/
 
+
 /*** SET BODY STYLES ***/
 body {
 	/** font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; **/
@@ -13,10 +14,10 @@ body {
 
 /* SET STYLES FOR BANNER */
 #jumbotron {
-    text-align: center;
-    background: #392986;
-    color: aliceblue;
-    background-image: linear-gradient(120deg, #155799, #159957);
+	text-align: center;
+	background: #392986;
+	color: aliceblue;
+	background-image: linear-gradient(120deg, #155799, #159957);
 }
 
 /* Footer styles. Set black background color, white text and padding */
@@ -36,21 +37,8 @@ footer a {
 footer a:hover {
 	color:#ccffcc;
 	text-decoration: underline;
-
-
-<html>
-<style>
-div {
-    height: 400px;
-    background: linear-gradient(to bottom, #F82E0B 20%, #F48123 100%)
 }
-</style>
-<body>
 
-<div></div>
-
-</body>
-</html>
 
 /** Wikipedia Search Styles **/
 

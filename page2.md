@@ -15,16 +15,14 @@ title: Page2
 }
 </style>
 </head>
-<body>
+
 
 <h2>Indigenous Languages in South America</h2>
 
 
 <div class="center">
   <p><iframe width="1000" height="400" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-</div>
-
-</section>
+</div> </section>
 
 <section>
   <h2>Listen to the first four minutes of the video again then complete this quiz to see what you can remember.</h2>

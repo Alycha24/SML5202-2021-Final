@@ -17,8 +17,8 @@ title: Page2
 </head>
 <body>
 
-<h2>Center Align Elements</h2>
-<p>To horizontally center a block element (like div), use margin: auto;</p>
+<h2>Indigenous Languages in South America</h2>
+
 
 <div class="center">
   <p><iframe width="400" height="400" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>

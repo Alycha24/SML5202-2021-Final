@@ -6,12 +6,11 @@ title: Page2
 <body> 
 
 <h1>Languages in South America</h1>
-
 <head>
 <style>
 .center {
   margin: auto;
-  width: 80%;
+  width: 45%;
   border: 5px solid #ff6600;
   padding: 10px;
 }

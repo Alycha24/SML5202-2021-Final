@@ -1,15 +1,40 @@
 ---
 title: Page2
 ---
-<!DOCTYPE html>
+
 <html>
 <body> 
 
+<h1>Languages in South America</h1>
 
-<h1>The video element</h1>
+<head>
+<style>
+.center {
+  margin: auto;
+  width: 80%;
+  border: 5px solid #ff6600;
+  padding: 10px;
+}
+</style>
+</head>
+<body>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="center">
+  <h2> Indigenous Languages</h2> 
+<iframe width="350" height="400" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+</body>
+</div>
+  
+  
+  
+  
+  
+  
+  
 </body>
 </html>
 

@@ -5,28 +5,23 @@ title: Page2
 <h1>Languages in South America</h1>
 
 <section>
-  <div class="row">
-  <div class="column" style="background-color:#ffffff;">
-    <head>
+<head>
 <style>
 .center {
   margin: auto;
-  width: 80%;
-  border: 5px solid #ffffff;
+  width: 60%;
+  border: 3px solid #ffffff;
   padding: 10px;
 }
 </style>
 </head>
 <body>
 
+<h2>Center Align Elements</h2>
+<p>To horizontally center a block element (like div), use margin: auto;</p>
 
 <div class="center">
-  <h2> Indigenous Languages</h2> 
-<iframe width="400" height="400" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-</div>
-
-</body>
+  <p><iframe width="400" height="400" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 </div>
 
 </section>

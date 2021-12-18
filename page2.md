@@ -14,9 +14,6 @@ title: Page2
 <iframe src="https://h5p.org/h5p/embed/1235829" width="911" height="294" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"> 
   
 
-<h2> <iframe src="https://h5p.org/h5p/embed/1235838" width="886" height="789" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Find the countries in the word search below"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
- </h2>
-</body>
 </html>
 
 

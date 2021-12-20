@@ -6,7 +6,6 @@ title: Page2
 
 <h1>Languages in South America</h1>
 
-<section>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -45,7 +44,6 @@ title: Page2
 </div>
 
 </body>
-</section>
 
 <section>
   <h2>Complete the word search!</h2>

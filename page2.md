@@ -4,6 +4,14 @@ title: Page2
 
 <html>
 <body>
+
+<h1>Languages in South America</h1>
+---
+title: Page2
+---
+
+<html>
+<body>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1>Languages in South America</h1>
 <head>
@@ -42,6 +50,22 @@ title: Page2
   </div>
   
 </div>
+
+<section>
+     <h2>Quiz time!</h2>
+    <p> Listen to the first four minutes of the video again then complete this quiz to see what you can remember.</p>
+    <p><iframe src="https://h5p.org/h5p/embed/1235829" width="300" height="45" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
+</section>
+
+<section>
+    <h2>Find the countries mentioned in the video in the word search below.</h2>
+ <p> <iframe src="https://h5p.org/h5p/embed/1235838" width="498" height="916" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Find the countries in the word search below"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
+</section>
+
+
+  
+</body>
+</html>
 
 <section>
      <h2>Quiz time!</h2>

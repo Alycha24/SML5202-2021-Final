@@ -6,7 +6,6 @@ title: Page2
 <body>
 
 <h1>Languages in South America</h1>
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>

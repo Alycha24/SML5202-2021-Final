@@ -2,7 +2,20 @@
 
 <p>Religions that you may know of practiced in South America include: Christianity, Buddhism, Hinduism, Judaism and Islam. Religions you may not have heard of in South America include Indigenous Religions and Syncretic Christianity. An example of an indigenous religion is the Navajo religion. The Navajo religion describes the universe as beautiful, harmonious, and ordered. An important word in this religion is "hozho," this word defines the important beliefs of the Navajo religion. These beliefs are beauty, harmony, and order.  In South America, Syncretic Christianity is the mixing of Indigenous African religions with Christianity. An example of Syncretic Christianity in South America can be found in Colombia. In Colombia Santería is practiced. Santería is a religion based on Yoruba traditions and beliefs with elements of Roman Catholicism. </p>
 
+<head>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 
+<h1>A video about religious practice in Latin America</h1>
+
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/v_Un7o4vrPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ 
+ 
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <header class="searchForm-container">

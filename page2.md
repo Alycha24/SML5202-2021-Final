@@ -33,7 +33,7 @@ title: Page2
   <div class="column">
      <h2>Indigenous Languages</h2>
     <p>This video will tell you all about the languages of South America</p>
-    <iframe width="400" height="300" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="300" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
   <div class="column">
       <h2>Quechua</h2>

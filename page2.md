@@ -41,7 +41,7 @@ title: Page2
     <h2>Quechua </h2>
     <p> Watch this video to learn some words in Quechua</p>
   <div class="column" style="background-color:#ffffff;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8X5Nv9nwqzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="400" height="315" src="https://www.youtube.com/embed/8X5Nv9nwqzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -56,6 +56,7 @@ title: Page2
     <h2>Find the countries mentioned in the video in the word search below.</h2>
  <p> <iframe src="https://h5p.org/h5p/embed/1235838" width="498" height="916" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Find the countries in the word search below"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script> </p>
 </section>
+
 
   
 </body>

@@ -12,7 +12,7 @@ title: Page2
   margin: auto;
   width: 50%;
   border: 3px solid #ff6600;
-  padding: 10px;
+  padding: 15px;
 }
 </style>
 </head>

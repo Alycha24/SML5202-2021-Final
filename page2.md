@@ -6,7 +6,7 @@ title: Page2
 <body>
 <h1>Languages in South America</h1>
 
-<section>
+ <section>
 <head>
 <style>
 .center {
@@ -19,14 +19,15 @@ title: Page2
 </head>
 <body>
 
-
 <h2>Indigenous Languages</h2>
 <p> This video will tell you all about the languages of South America </p>
 
 <div class="center">
-    <iframe width="400" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+    <iframe width="400" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> 
+  
+  </section>
     
-</section>
+
 
 <section>
      <h2>Quiz time!</h2>
@@ -113,6 +114,8 @@ function openTab(tabName) {
   document.getElementById(tabName).style.display = "block";
 }
 </script>
+
+  </section>
 
 
 

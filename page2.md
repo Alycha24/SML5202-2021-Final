@@ -4,44 +4,26 @@ title: Page2
 
 <html>
 <body>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <h1>Languages in South America</h1>
+
 <head>
 <style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
+.center {
+  margin: auto;
+  width: 60%;
+  border: 3px solid #ff6600;
+  padding: 20px;
 }
 </style>
 </head>
 <body>
 
 
-<div class="row">
-  <div class="column">
-     <h2>Indigenous Languages</h2>
-    <p>This video will tell you all about the languages of South America</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  <div class="column">
-      <h2>Quechua</h2>
-    <p>Watch this video to learn some words in Quechua</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/8X5Nv9nwqzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-  
-</div>
+<h2>Indigenous Languages</h2>
+<p> This video will tell you all about the languages of South America </p>
+
+<div class="center">
+    <iframe width="400" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 <section>
      <h2>Quiz time!</h2>

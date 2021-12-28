@@ -22,7 +22,7 @@ title: Page2
 <p>This video will tell you all about the languages of South America</p>
 
 <div class="center">
-  <p><div><iframe width="700" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+  <p><div><iframe width="650" height="315" src="https://www.youtube.com/embed/US-sSO0Pc3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 </div>
     
 

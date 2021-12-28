@@ -113,12 +113,11 @@ function openTab(tabName) {
 }
 </script>
 
-  </section>
 
 
 
 </body>
-</html>
+
 
   
 

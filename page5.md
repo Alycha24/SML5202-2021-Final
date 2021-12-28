@@ -19,7 +19,7 @@
 
 <div class="center">
  <p> Click on each hotspot to read aboit the weather in each country. </p>
-    <p><iframe src="https://h5p.org/h5p/embed/1237910" width="696" height="834" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Image Hotspots"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
+    <p><iframe src="https://h5p.org/h5p/embed/1237910" width="650" height="315" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Image Hotspots"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
  </div>
  
 <h3> Understanding: Answer the questions below based on what you have read.</h3>

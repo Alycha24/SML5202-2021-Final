@@ -12,7 +12,8 @@ div {text-align: center;}
 
 <div><iframe width="560" height="515" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  
-<head>
+<section> 
+ <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -47,7 +48,9 @@ div {text-align: center;}
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
+</section> 
  
+<section>
  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -154,6 +157,8 @@ function openTab(tabName) {
 <section class="searchResults"></section>
 
 <script src="wiki.js"></script>
+ 
+ </section>
 
  
 

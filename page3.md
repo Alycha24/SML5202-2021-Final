@@ -47,12 +47,8 @@ div {text-align: center;}
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
   </div>
 </div>
-
-
  
- 
-
-<head>
+ <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -117,19 +113,19 @@ body {
 </div>
 
 <!-- Full-width columns: (hidden by default) -->
-<div id="b1" class="containerTab" style="display:none;background:green">
+<div id="b1" class="containerTab" style="display:none;background:#ff6600">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Ppoulation</h2>
+  <h2>Population</h2>
   <p>Research the amount of people in South America that practice the religion</p>
 </div>
 
-<div id="b2" class="containerTab" style="display:none;background:blue">
+<div id="b2" class="containerTab" style="display:none;background:#ff9933">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Prinicples</h2>
   <p>Research the core principles of the religion</p>
 </div>
 
-<div id="b3" class="containerTab" style="display:none;background:red">
+<div id="b3" class="containerTab" style="display:none;background:#ffcc00">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
   <h2>Practice</h2>
   <p>Research how the religion is practiced. For example, are there any special holy/spiritual days or times of the year.</p>
@@ -158,4 +154,6 @@ function openTab(tabName) {
 <section class="searchResults"></section>
 
 <script src="wiki.js"></script>
+
+ 
 

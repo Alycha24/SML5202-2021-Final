@@ -14,20 +14,20 @@
 </head>
 <body>
 
-<h2>475 years of Catholicism in South America</h2>
+<h2>Information</h2>
+  
 <p>Watch this video to find out more about the biggest religion practiced in South America.</p>
 
 <div class="center">
   <p><div><iframe width="650" height="315" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 </div>
 
-
  
  <p>Religions that you may know of practiced in South America include: Christianity, Buddhism, Hinduism, Judaism and Islam. Religions you may not have heard of in South America include Indigenous Religions and Syncretic Christianity. An example of an indigenous religion is the Navajo religion. The Navajo religion describes the universe as beautiful, harmonious, and ordered. An important word in this religion is "hozho," this word defines the important beliefs of the Navajo religion. These beliefs are beauty, harmony, and order. In South America, Syncretic Christianity is the mixing of Indigenous African religions with Christianity. An example of Syncretic Christianity in South America can be found in Colombia. In Colombia Santería is practiced. Santería is a religion based on Yoruba traditions and beliefs with elements of Roman Catholicism.</p>
  
-     <p> Complete this quiz using the information above </p>
+<h3> Understanding: Complete this quiz using the information above </h3>
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
- 
+
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -75,7 +75,7 @@ body {
 <body>
 
 <div style="text-align:center">
-  <h2>Extra Independent research</h2>
+  <h2> Extra Activity: Independent research</h2>
   <p>Choose one religion mentioned above to write a report on then click on the boxes below to find out what to include in your report:</p>
 </div>
 

@@ -1,4 +1,4 @@
-<h1>Religions in South America</h1>
+<h1 dir="ltr">Religions in South America</h1>
 
 <head>
 <style>

@@ -18,10 +18,35 @@ div {text-align: center;}
  
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<header class="searchForm-container">
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+
+ <h2> Do it yourself: use the search tool below to find out more about the religions in South America! </h2>
+<div class="row">
+  <div class="column">
+    <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
-<form class="searchForm">
- <p> Use this search tool to find out more about the religions in South America! </p>       
+<form class="searchForm">       
         <input type="search" class="searchForm-input">
         <button type="submit" class="icon searchIcon">
           <img src="https://image.ibb.co/cpG8zk/search.png" alt="Magnifying Glass Icon">
@@ -31,7 +56,9 @@ div {text-align: center;}
 <section class="searchResults"></section>
 
 <script src="wiki.js"></script>
+  </div>
  
+    
  <p>Ideas on what to research:</p>
 <ul>
  <li>Which South American countries practice each religion</li>
@@ -39,3 +66,5 @@ div {text-align: center;}
   <li>Number of people practicing the different religions in South America</li>
   <li>The Gods and/or Deities of each religion</li>
 </ul>
+  </div>
+</div>

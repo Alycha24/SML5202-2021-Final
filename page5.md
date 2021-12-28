@@ -16,6 +16,9 @@
 
 <h2>Information: Climate in South America</h2>
 
+  <p> 
+South America can be divided into four climatic regions: tropical, temperate, arid, and cold. Tropical climates: there are two types of tropical climates that can be found; tropical wet and tropical dry.  The temperate climates have a greater temperature range and lower winter temperatures than tropical climates. Arid climates can be found in found in deserts, coastal areas, and interior regions throughout South America. 
+Cold climates occur in the southern ends of Argentina and Chile and the highest elevations of the Andes. Cold climates have an average annual temperature of below 10 degrees Celsius (50 degrees Fahrenheit). These climates are characterised by long dry seasons and high winds. Click on this link to find out more about the weather in South America: https://www.nationalgeographic.org/encyclopedia/south-america-resources/. </p>
 
 <div class="center">
  <p> Click on each hotspot to read aboit the weather in each country. </p>

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
 <h1> Landmarks </h1>  
@@ -24,7 +23,7 @@
  
 <h3> Understanding: Based on the images above, complete this crossword. Include an underscore between each word (_) if the landmark's name is more than one word.</h3>
 
-<iframe src="https://h5p.org/h5p/embed/1236165" width="500" height="315" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Crossword"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/1236165" width="500" height="100" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Crossword"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -72,22 +72,22 @@ body {
 <body>
 
 <div style="text-align:center">
- <h2>Extra Activity: Landmark Crossword </h2>
+ <h2>Extra Activity: Matching Activity </h2>
   <p>Click on the box below to complete the task</p>
 </div>
 
 <!-- Three columns -->
 <div class="row">
   <div class="column" onclick="openTab('b1');" style="background:#ff9933;">
-  Crossword Puzzle
+  Matching Activity
   </div>
 	</div>
 
 <!-- Full-width columns: (hidden by default) -->
 <div id="b1" class="containerTab" style="display:none;background:#ffcc00">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Complete the crossword based on the information above</h2>
-  <p><iframe src="https://h5p.org/h5p/embed/1236165" width="500" height="100" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Crossword"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
+  <h2>Complete the matching activity based on the information above</h2>
+  <p><iframe src="https://h5p.org/h5p/embed/1237824" width="1090" height="646" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Image pairing"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
 </div>
 
 
@@ -103,7 +103,6 @@ function openTab(tabName) {
 }
 </script>
 </body>
-</html>
 
 
 

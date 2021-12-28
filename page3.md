@@ -49,31 +49,9 @@ div {text-align: center;}
 </div>
 
 
+ 
+ 
 
-<head>
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 50%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-</head>
-<body>
-
-
- <h4> Do it yourself: use the search tool below to find out more about the religions in South America! </h3>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -81,12 +59,25 @@ div {text-align: center;}
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* The grid: Three equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
-  padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
+  width: 33.33%;
+  padding: 50px;
+  text-align: center;
+  font-size: 25px;
+  cursor: pointer;
+  color: white;
+}
+
+.containerTab {
+  padding: 20px;
+  color: white;
 }
 
 /* Clear floats after the columns */
@@ -95,23 +86,67 @@ div {text-align: center;}
   display: table;
   clear: both;
 }
+
+/* Closable button inside the container tab */
+.closebtn {
+  float: right;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
 </style>
 </head>
 <body>
 
+<div style="text-align:center">
+  <h2>Extra Independent research</h2>
+  <p>Choose one religion mentioned above to write a report on then click on the boxes below to find out what to include in your report:</p>
+</div>
 
+<!-- Three columns -->
 <div class="row">
-  <div class="column" style="background-color:#ffffff;">
-           <p>Ideas on what to research:</p>
-<ul>
- <li>Which South American countries practice each religion</li>
-  <li>Origin of the different religions</li>
-  <li>Number of people practicing the different religions in South America</li>
-  <li>The Gods and/or Deities of each religion</li>
-</ul>
+  <div class="column" onclick="openTab('b1');" style="background:#ff6600;">
+    Population
   </div>
-  <div class="column" style="background-color:#ffffff;">
-    <header class="searchForm-container">
+  <div class="column" onclick="openTab('b2');" style="background:#ff9933;">
+    Principles
+  </div>
+  <div class="column" onclick="openTab('b3');" style="background:#ffcc00;">
+    Practice
+  </div>
+</div>
+
+<!-- Full-width columns: (hidden by default) -->
+<div id="b1" class="containerTab" style="display:none;background:green">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Ppoulation</h2>
+  <p>Research the amount of people in South America that practice the religion</p>
+</div>
+
+<div id="b2" class="containerTab" style="display:none;background:blue">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Prinicples</h2>
+  <p>Research the core principles of the religion</p>
+</div>
+
+<div id="b3" class="containerTab" style="display:none;background:red">
+  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
+  <h2>Practice</h2>
+  <p>Research how the religion is practiced. For example, are there any special holy/spiritual days or times of the year.</p>
+</div>
+
+<script>
+function openTab(tabName) {
+  var i, x;
+  x = document.getElementsByClassName("containerTab");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  document.getElementById(tabName).style.display = "block";
+}
+</script>
+
+  <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">       
         <input type="search" class="searchForm-input">
@@ -123,4 +158,6 @@ div {text-align: center;}
 <section class="searchResults"></section>
 
 <script src="wiki.js"></script>
+
+</body>
   </div>

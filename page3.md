@@ -12,11 +12,41 @@ div {text-align: center;}
 
 <div><iframe width="560" height="515" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+
+<div class="row">
+  <div class="column" style="background-color:#ffffff;">
  <p>Religions that you may know of practiced in South America include: Christianity, Buddhism, Hinduism, Judaism and Islam. Religions you may not have heard of in South America include Indigenous Religions and Syncretic Christianity. An example of an indigenous religion is the Navajo religion. The Navajo religion describes the universe as beautiful, harmonious, and ordered. An important word in this religion is "hozho," this word defines the important beliefs of the Navajo religion. These beliefs are beauty, harmony, and order.  In South America, Syncretic Christianity is the mixing of Indigenous African religions with Christianity. An example of Syncretic Christianity in South America can be found in Colombia. In Colombia Santería is practiced. Santería is a religion based on Yoruba traditions and beliefs with elements of Roman Catholicism. </p>
- 
- <h3> Complete this quiz using the information in the paragraph above </h3>
+  </div>
+  <div class="column" style="background-color:#ffffff;">
+     <p> Complete this quiz using the information on the left </p>
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
- 
+  </div>
+</div>
 
 
 

@@ -10,7 +10,7 @@ title: Page2
 <style>
 .center {
   margin: auto;
-  width: 60%;
+  width: 50%;
   border: 3px solid #ff6600;
   padding: 10px;
 }

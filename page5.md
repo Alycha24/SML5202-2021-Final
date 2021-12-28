@@ -87,7 +87,7 @@ Weather Research
 <!-- Full-width columns: (hidden by default) -->
 <div id="b1" class="containerTab" style="display:none;background:#ffcc00">
   <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <h2>Search the five South American Countries and compare the current weather in each country.</h2>
+  <h2>Click on the weather widget below to search the five South American Countries and compare the current weather in each country.</h2>
   <p><a class="weatherwidget-io" href="https://forecast7.com/en/40d71n74d01/new-york/" data-label_1="Paraguay" data-label_2="WEATHER" data-theme="original" >Paraguay WEATHER</a>
 <script>
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');

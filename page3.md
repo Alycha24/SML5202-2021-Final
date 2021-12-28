@@ -159,5 +159,3 @@ function openTab(tabName) {
 
 <script src="wiki.js"></script>
 
-</body>
-  </div>

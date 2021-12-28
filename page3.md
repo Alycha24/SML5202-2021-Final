@@ -7,7 +7,8 @@ p {text-align: center;}
 div {text-align: center;}
 </style>
 </head>
-<body><h1>475 years of Catholicism in South America</h1>
+<body><h2>475 years of Catholicism in South America</h2>
+ <p> Watch this video to find out more about the biggest religion practiced in South America. <p>
 
 <div><iframe width="560" height="515" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
  
@@ -41,7 +42,7 @@ div {text-align: center;}
 <body>
 
 
- <h2> Do it yourself: use the search tool below to find out more about the religions in South America! </h2>
+ <h3> Do it yourself: use the search tool below to find out more about the religions in South America! </h3>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>

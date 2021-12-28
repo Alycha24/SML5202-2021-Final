@@ -12,7 +12,6 @@ title: home
   <li>Languages</li>
   <li>Religions</li>
   <li>Landmarks</li>
-  <li>Traditional Clothing</li>
   <li>Climate</li>
 </ul>  
 

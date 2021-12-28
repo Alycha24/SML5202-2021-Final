@@ -42,8 +42,44 @@ div {text-align: center;}
 
 
  <h2> Do it yourself: use the search tool below to find out more about the religions in South America! </h2>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 100%;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
+
+<h2> Do it yourself: use the search tool below to fins out more about the religions in South America! </h2>
+
 <div class="row">
-  <div class="column">
+  <div class="column" style="background-color:#ffffff;">
+           <p>Ideas on what to research:</p>
+<ul>
+ <li>Which South American countries practice each religion</li>
+  <li>Origin of the different religions</li>
+  <li>Number of people practicing the different religions in South America</li>
+  <li>The Gods and/or Deities of each religion</li>
+</ul>
+  </div>
+  <div class="column" style="background-color:#ffffff;">
     <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">       
@@ -57,14 +93,3 @@ div {text-align: center;}
 
 <script src="wiki.js"></script>
   </div>
- 
-    
- <p>Ideas on what to research:</p>
-<ul>
- <li>Which South American countries practice each religion</li>
-  <li>Origin of the different religions</li>
-  <li>Number of people practicing the different religions in South America</li>
-  <li>The Gods and/or Deities of each religion</li>
-</ul>
-  </div>
-</div>

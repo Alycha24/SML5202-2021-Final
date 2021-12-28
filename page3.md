@@ -18,7 +18,7 @@
 <p>Watch this video to find out more about the biggest religion practiced in South America.</p>
 
 <div class="center">
-  <p><div><iframe width="400" height="315" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+  <p><div><iframe width="745" height="315" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 </div>
 
 </section>

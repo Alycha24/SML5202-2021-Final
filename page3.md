@@ -52,7 +52,7 @@ div {text-align: center;}
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 100%;
+  width: 50%;
   padding: 10px;
   height: 200px; /* Should be removed. Only for demonstration */
 }
@@ -67,7 +67,6 @@ div {text-align: center;}
 </head>
 <body>
 
-<h2> Do it yourself: use the search tool below to fins out more about the religions in South America! </h2>
 
 <div class="row">
   <div class="column" style="background-color:#ffffff;">

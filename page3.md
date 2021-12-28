@@ -43,7 +43,7 @@ div {text-align: center;}
 <body>
 
 
- <h4> Do it yourself: use the search tool below to find out more about the religions in South America! </43>
+ <h4> Do it yourself: use the search tool below to find out more about the religions in South America! </h3>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>

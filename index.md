@@ -7,6 +7,31 @@ title: home
 <h1>Welcome </h1>
   
   <hr>
+  
+  <head>
+<style>
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</head>
   <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>

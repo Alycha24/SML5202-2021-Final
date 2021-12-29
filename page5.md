@@ -115,6 +115,5 @@ function openTab(tabName) {
 </script>
 
 </body>
-</html> 
 
 

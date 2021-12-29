@@ -1,6 +1,7 @@
 <html>
 
 <h1> Landmarks </h1>  
+<hr>
 <head>
 <style>
 .center {

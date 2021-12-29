@@ -1,5 +1,6 @@
 <h1 dir="ltr">Religions in South America</h1>
 
+<hr>
 
 
 <head>

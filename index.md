@@ -5,9 +5,17 @@ title: home
 <html>
 
 <h1>Welcome </h1>
+  
+  <hr>
+  
 
-<p>What do you know about South America? Use this site to develop your knowledge!</p>
-
+<p>What do you know about South America?</p>
+   <p>Here is a video to give you a quick introduction to South America</p>
+  
+  <div class="center">
+  <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/R35URiT_fm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+</div>
+<hr>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -56,7 +64,7 @@ body {
 </head>
 <body>
 
-<h2>On this website you will learn all about:</h2>
+<h2>Click on the tabs above to learn about:</h2>
 
 
 <div class="row">
@@ -89,12 +97,6 @@ body {
   </div>
 </div>
 
-<hr>
-  <p>Here is a video to give you a quick introduction to South America</p>
-  
-  <div class="center">
-  <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/R35URiT_fm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
-</div>
 
   
 

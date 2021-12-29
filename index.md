@@ -55,7 +55,7 @@ body {
 </head>
 <body>
 
-<h2>Click on the tabs above to learn about:</h2>
+<h2>Click on the links below to learn about:</h2>
 
 
 <div class="row">

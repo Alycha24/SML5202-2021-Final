@@ -10,7 +10,7 @@ function handleSubmit(event) {
 }
 
 function fetchResults(searchQuery) {
-	  const endpoint = `https://es.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=10&srsearch=${searchQuery}`;
+	  const endpoint = `https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=10&srsearch=${searchQuery}`;
   	fetch(endpoint)
   		.then(response => response.json())
   		.then(data => {
@@ -25,7 +25,7 @@ function displayResults(results) {
   const searchResults = document.querySelector('.searchResults');
   searchResults.innerHTML = '';
   results.forEach(result => {
-  const url = encodeURI(`https://es.wikipedia.org/wiki/${result.title}`);
+  const url = encodeURI(`https://en.wikipedia.org/wiki/${result.title}`);
   
   searchResults.insertAdjacentHTML('beforeend',
   

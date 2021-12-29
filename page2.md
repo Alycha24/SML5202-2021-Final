@@ -5,7 +5,7 @@ title: Page2
 <html>
 <body>
 <h1>Languages in South America</h1>
-
+<hr>
 <head>
 <style>
 .center {

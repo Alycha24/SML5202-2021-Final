@@ -7,16 +7,7 @@ title: home
 <h1>Welcome </h1>
   
   <hr>
-  
-
-<p>What do you know about South America?</p>
-   <p>Here is a video to give you a quick introduction to South America</p>
-  
-  <div class="center">
-  <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/R35URiT_fm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
-</div>
-<hr>
-<head>
+  <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -96,8 +87,19 @@ body {
     </div>
   </div>
 </div>
+  <hr>
+  
 
-<hr>
+<p>What do you know about South America?</p>
+   <p>Here is a video to give you a quick introduction to South America</p>
+  
+  <div class="center">
+  <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/R35URiT_fm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
+</div>
+
+
+
+
 
 
  

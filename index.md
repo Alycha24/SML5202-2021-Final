@@ -6,7 +6,7 @@ title: home
 
 <h1>Welcome </h1>
 
-<p>What do you know about South America? Use this site to further develop your knowledge!</p>
+<p>What do you know about South America? Use this site to develop your knowledge!</p>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">

@@ -23,7 +23,7 @@ South America can be divided into four climatic regions: tropical, temperate,�
 Cold climates occur in the southern ends of Argentina and Chile and the highest elevations of the Andes. Cold climates have an average annual temperature of below 10 degrees Celsius (50 degrees Fahrenheit). These climates are characterised by long dry seasons and high winds. Click on this link to find out more about the weather in South America: https://www.nationalgeographic.org/encyclopedia/south-america-resources/. </p>
 
 <div class="center">
- <p> Click on each hotspot to read aboit the weather in each country. </p>
+ <p> Click on each hotspot to read about the weather in each country. </p>
     <p><iframe src="https://h5p.org/h5p/embed/1237910" width="650" height="315" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Image Hotspots"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
  </div>
 <hr> 

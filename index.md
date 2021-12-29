@@ -7,7 +7,7 @@ title: home
 
   
 <h2>On this website you will learn all about:</h2>
-
+<button onclick="page2.md='default.asp'">Languages</button>
 
 <ul>
   <li>Languages</li>

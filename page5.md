@@ -2,6 +2,8 @@
 
 
 <h1> Climate </h1>  
+  
+ <hr>
 <head>
 <style>
 .center {

@@ -7,8 +7,7 @@ title: home
 
   
 <h2>On this website you will learn all about:</h2>
-<button onclick="page2.md='default.asp'">Languages</button>
-
+<a href="SML5202-2021-Final/page2.html"> Languages </a>
 <ul>
   <li>Languages</li>
   <li>Religions</li>

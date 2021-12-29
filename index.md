@@ -8,7 +8,6 @@ title: home
   
 <h2>On this website you will learn all about:</h2>
 
-<a href="page2.md"> Languages</a> 
 
 <ul>
   <li>Languages</li>

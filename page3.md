@@ -25,7 +25,7 @@
   <p><div><iframe width="650" height="315" src="https://www.youtube.com/embed/MybwAFCMyM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 </div>
 
- 
+ <hr>
  
 <h3> Understanding: Complete this quiz using the information above </h3>
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -75,7 +75,7 @@ body {
 </style>
 </head>
 <body>
-
+<hr>
 <div style="text-align:center">
   <h2> Extra Activity: Independent research</h2>
   <p>Choose one religion mentioned above to write a report on then click on the boxes below to find out what to include in your report:</p>

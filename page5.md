@@ -24,7 +24,7 @@ Cold climates occur in the southern ends of Argentina and Chile and the highest 
  <p> Click on each hotspot to read aboit the weather in each country. </p>
     <p><iframe src="https://h5p.org/h5p/embed/1237910" width="650" height="315" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Image Hotspots"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
  </div>
- 
+<hr> 
 <h3> Understanding: Answer the questions below based on what you have read.</h3>
 
 <iframe src="https://h5p.org/h5p/embed/1237913" width="696" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -75,6 +75,8 @@ body {
 <body>
 
 <div style="text-align:center">
+  
+<hr>
   <h2>Extra Activity: Weather Research</h2>
   <p>Click on the box below to see the activity</p>
 </div>

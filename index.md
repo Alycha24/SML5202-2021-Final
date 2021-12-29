@@ -61,7 +61,7 @@ body {
 <div class="row">
   <div class="column">
     <div class="card">
-     <a href = "page2.html"> <h3>Landmarks</h3> </a>  
+     <a href = "page2.html"> <h3>Languages</h3> </a>  
   
     </div>
   </div>

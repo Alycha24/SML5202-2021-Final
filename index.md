@@ -61,14 +61,14 @@ body {
 <div class="row">
   <div class="column">
     <div class="card">
-      <h3>Languages</h3>
+     <a href = "page2.html"> <h3>Landmarks</h3> </a>  
   
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <h3>Religions</h3>
+      <a href = "page3.html"> <h3>Religion</h3> </a>
      
     </div>
   </div>
@@ -82,7 +82,7 @@ body {
   
   <div class="column">
     <div class="card">
-      <h3>Climate</h3>
+       <a href = "page5.html"> <h3>Climate</h3> </a>
     
     </div>
   </div>

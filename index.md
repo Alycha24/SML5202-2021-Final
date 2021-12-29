@@ -84,7 +84,7 @@ body {
   
   <div class="column">
     <div class="card">
-      <h3>Landmarks</h3>
+      <a href "page2.html"><h3>Landmarks</h3> </a>
     
     </div>
   </div>

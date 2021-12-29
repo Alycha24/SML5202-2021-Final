@@ -20,7 +20,7 @@
  <p> Hover your pointer over the images to identify the name and location of each landmark.</p>
     <p><iframe src="https://h5p.org/h5p/embed/1236164" width="911" height="710" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Image Slider. Hover your pointer over the Image to see the names of each landmark."></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></p>
  </div>
- 
+ <hr>
 <h3> Understanding: Answer the questions below based on what you have learnt</h3>
 
 <iframe src="https://h5p.org/h5p/embed/1237856" width="688" height="1091" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Landmark Locations"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -72,6 +72,7 @@ body {
 <body>
 
 <div style="text-align:center">
+<hr>
  <h2>Extra Activity: Matching Activity </h2>
   <p>Click on the box below to complete the task</p>
 </div>

@@ -3,7 +3,7 @@
 <hr>
 
 
-<head>
+
 <style>
 .center {
   margin: auto;
@@ -12,8 +12,7 @@
   padding: 15px;
 }
 </style>
-</head>
-<body>
+
 
 <h2>Information: The religions practiced in South America </h2>
   
@@ -31,7 +30,7 @@
 <h3> Understanding: Complete this quiz using the information above </h3>
 <iframe src="https://h5p.org/h5p/embed/1235840" width="911" height="225" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Example Content - Single Choice Set"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {

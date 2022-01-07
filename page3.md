@@ -73,7 +73,7 @@ body {
   cursor: pointer;
 }
 </style>
-</head>
+
 <body>
 <hr>
 <div style="text-align:center">

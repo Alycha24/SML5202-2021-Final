@@ -121,6 +121,17 @@ body {
   <div class="center">
   <p><div><iframe width="560" height="315" src="https://www.youtube.com/embed/R35URiT_fm8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></p>
 </div>
+  
+  <hr>
+  
+<h2>References</h2>
+
+<ul>
+  <li>Nat Geo Kids (2018)  South America | Destination World. [online video] Available at:
+https://www.youtube.com/watch?v=R35URiT_fm8  [Accessed 15/12/2021]</li>
+
+</ul> 
+  
 
 
 

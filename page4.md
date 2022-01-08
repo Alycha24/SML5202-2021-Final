@@ -104,6 +104,34 @@ function openTab(tabName) {
   document.getElementById(tabName).style.display = "block";
 }
 </script>
+	
+<hr>
+<h2>References</h2>
+
+<ul>
+
+ 
+ <li> Piderit,J.M. 2008. Cristo Redentor Río de Janeiro. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Cristo_Redentor_R%C3%ADo_de_Janeiro.jpg   </li>
+ <li> Delso, D. 2015. Machu Picchu, Perú [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG </li>
+ <li> Tofoli, D. 2016. The Great Blue Hole. [online]. [Accessed 23/12/2021]. Available from: https://www.flickr.com/photos/douglastofoli/27948180706</li>
+ <li> Casapueblo Museum and Hotel, Punta del Este, Uruguay. 2007. The G [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Casapueblo_Museum_and_Hotel,_Punta_del_Este,_Uruguay.jpg </li>
+ <li>Aliaga, J. 2014. Saltos Del Petrohue. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/w/index.php?search=Saltos+del+Petrohu%C3%A9%2C+Chile+&title=Special:MediaSearch&go=Go&type=image </li>
+ <li>Michu. 2021. Santuario-de-monserrate-bogota. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Santuario-de-monserrate-bogota.jpg.imgo.jpg</li>
+ <li> Hector. 2017. Ingapirca, Ecuador. [online]. [Accessed 23/12/2021]. Available from: https://www.flickr.com/photos/hectorlo/34419697922  </li>
+ <li> Currie, A. 2008. Buenos Aires - Cementerio de la Recoleta. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Buenos_Aires_-_Cementerio_de_la_Recoleta_-_200808a.jpg</li>
+ <li> Peixoto, R. 2016. La Mano. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:La_Mano,_marzo_2016.JPG</li>
+ <li> Flag of Argentina. 2020. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Argentina_(1861-2012).jpg</li>
+ <li>Flag of Chile. 1817. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Chile.svg  </li>
+ <li> Flag of Colombia. 1861. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Colombia.svg  </li>
+ <li> Flag of Brazil. 1992. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg </li>
+ <li> Flag of Peru. 1824. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Peru_(state).svg </li>
+ <li> Flag of Ecuador. 2010. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Ecuador.svg </li>
+ <li> Flag of Uruguay. 1830. [online]. [Accessed 23/12/2021]. Available from: https://commons.wikimedia.org/wiki/File:Flag_of_Uruguay.svg </li>
+
+                 
+ 
+
+</ul>  
 </body>
 
 

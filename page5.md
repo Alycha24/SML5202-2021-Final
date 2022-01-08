@@ -114,6 +114,22 @@ function openTab(tabName) {
 }
 </script>
 
+  <hr>
+  
+  <h2>References</h2>
+
+<ul>
+
+ 
+<li> Weather in Peru. Climateandweather [online] Available from:http://www.climateandweather.com/weather-in-peru-0 [Accessed 24/11/2021]</li>
+<li>Weather in Ecuador. Climateandweather [online] Available from:http://www.climateandweather.com/weather-in-ecuador[Accessed 24/11/2021]</li>
+<li> Climate - Paraguay. Climates To Travel [online] Available from:https://www.climatestotravel.com/climate/paraguay[Accessed 24/11/2021]</li>
+<li> Climate - Venezuela. Climates To Travel [online] Available from:https://www.climatestotravel.com/climate/venezuela[Accessed 24/11/2021]</li>
+<li> Climate - Brazil. Climates To Travel [online] Available from: https://www.climatestotravel.com/climate/brazil [Accessed 24/11/2021] </li>
+                 
+ 
+
+</ul> 
 </body>
 
 

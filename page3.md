@@ -136,6 +136,18 @@ function openTab(tabName) {
 <section class="searchResults"></section>
 
 <script src="wiki.js"></script>
+  
+  <hr>
+  <h2>References</h2>
+
+<ul>
+  <li> Catholic News Service (2012) 475 years of Catholicism in South America.[online video] Available at: https://www.youtube.com/watch?v=MybwAFCMyM0 [Accessed 22/12/2021]</li>
+  
+ <li> Cultural Survival, (1992). Navajo [online] Available from:https://www.culturalsurvival.org/publications/cultural-survival-quarterly/navajo [Accessed 25/11/2021]  </li> 
+ 
+ <li> Henri Gooren (ed) (2019). Religions of the World. Springer, Cham.</li>
+ 
+</ul>  
 
 </body>
 

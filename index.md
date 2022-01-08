@@ -80,7 +80,7 @@ body {
 </head>
 <body>
 
-<h2>Click on the links below to learn about:</h2>
+<h2>You can work on the following topics in any order. Click on the links below to learn about:</h2>
 
 
 <div class="row">
